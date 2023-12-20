@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  text-align: center;
+  width: 50px;
+}
+
+.product {
+  display: flex;
+  /* background-color: wheat; */
+  margin-top: 20px;
+  height: 500px;
+}

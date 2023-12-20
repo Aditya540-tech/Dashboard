@@ -1,0 +1,19 @@
+.container {
+  width: 200px;
+  margin-top: 100px;
+  padding: 30px 60px;
+  height: auto;
+  border: 2px solid black;
+  margin-left: 55px;
+  margin-right: 55px;
+  background-color: white;
+}
+
+.container h1 {
+  font-size: 90px;
+  background-color: white;
+}
+
+.container h4 {
+  background-color: white;
+}

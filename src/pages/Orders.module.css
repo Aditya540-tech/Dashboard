@@ -1,0 +1,10 @@
+.orderContainer {
+  height: auto;
+  border: 2px solid black;
+  margin: 0 50px;
+}
+
+.container h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
